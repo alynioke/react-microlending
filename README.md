@@ -3,6 +3,8 @@
 * PHP >= 5.5 (on dev machine: 5.5.11)
     * In case of problems with php extensions, view http://lumen.laravel.com/docs/installation#installation Server Requirements
 * MySQL >= 5.6 (on dev machine: 5.6.16)
+* [composer](https://getcomposer.org/)
+* [nodejs](https://nodejs.org/)
 
 ## Installing the project
 
