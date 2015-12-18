@@ -1,0 +1,8 @@
+/vendor
+.env.example
+/build
+/node_modules
+/storage
+.idea
+/public/js
+/public/css
